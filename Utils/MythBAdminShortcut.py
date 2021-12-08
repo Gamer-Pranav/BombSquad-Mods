@@ -1,4 +1,4 @@
-import bs                  #Created By MythB # http://github.com/MythB
+import bs import*
 import bsUI
 import bsInternal
 	
